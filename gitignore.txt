@@ -1,0 +1,108 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Notebook metadata (if unnecessary)
+*.nbconvert.ipynb
+
+# Hidden system files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Logs and temporary files
+*.log
+*.out
+*.err
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Config and metadata files
+*.ini
+*.yaml
+*.yml
+*.toml
+
+# Environment files
+*.env
+*.conda
+
+# Data files
+*.parquet
+*.feather
+
+# Large dataset and cache files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.bz2
+*.xz
+*.npz
+*.npy
+*.mat
+
+# Machine learning outputs
+checkpoints/
+*.ckpt
+*.onnx
+*.pb
+*.pt
+*.tflite
+
+# Cloud provider metadata
+*.tfstate
+*.tfstate.*
+
+# Pytest files
+.cache/
+.pytest_cache/
+
+# Git and Version control
+*.orig
+*.rej
+*.swp
+*.swo
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# IPython history
+ipython_hist/
+.history
+
+# Matplotlib settings
+.matplotlib/
+
+# R and RStudio specific files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Other hidden files
+.project
